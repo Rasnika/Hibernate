@@ -24,7 +24,7 @@ public class Hibernatetest {
         pojos.Actor1 at = new pojos.Actor1();
         at.setFirstName("rasna");
         at.setLastName("poladi");
-        at.setActorid(8);
+        at.setActorid(48);
 
         s.save(at);
 
